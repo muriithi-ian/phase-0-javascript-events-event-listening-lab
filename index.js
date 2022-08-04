@@ -5,3 +5,5 @@ function addingEventListener() {
 		alert("Hello World");
 	});
 }
+
+addingEventListener();
